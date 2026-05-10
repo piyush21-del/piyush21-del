@@ -93,7 +93,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=piyush21-del&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush21-del&theme=tokyo-night"/>
 </p>
 
 ---
@@ -115,15 +115,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="www.linkedin.com/in/piyush-kumar-mishra-463954285" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:piyushkumarmishra345@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/piyush21-del">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
@@ -133,7 +133,7 @@
 # ✨ Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=piyush21-del&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
