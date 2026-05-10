@@ -45,14 +45,31 @@
 
 # 📌 Featured Projects
 
-### 🛰️ AI-based Satellite Image Analysis
-> Automated feature detection and change analysis using multi-source satellite imagery.
+### 🚖 Women Safety Cab Booking System
 
-### 🏦 Java Bank Management System
-> GUI-based ATM & banking system using Java Swing and MySQL.
+> AI-enabled safety-focused cab booking platform designed to improve ride security for women.
+
+**Key features**
+
+* Secure login and signup
+* Live location tracking
+* Emergency SOS support
+* Women driver preference
+* Safety-focused ride experience
+* Responsive user interface
+
+### 📅 Calendar Management System
+
+> Smart calendar application for managing schedules, reminders, events, and daily task organization.
+
+### 🎬 Movie Recommendation System
+
+> Machine learning-based recommendation system that suggests movies based on user preferences and viewing patterns.
 
 ### 🍔 Food Image Recipe Generator
+
 > AI project that generates recipes from uploaded food images.
+
 
 ---
 
