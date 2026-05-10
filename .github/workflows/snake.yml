@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,12 +16,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: piyush21-del
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
