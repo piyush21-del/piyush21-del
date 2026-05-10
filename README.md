@@ -106,10 +106,8 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/piyush21-del/piyush21-del/output/snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
