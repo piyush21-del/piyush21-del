@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast | Java Developer</h3>
+<h1 align="center">Hi 👋, I'm Piyush Kumar Mishra</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast | Python Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;AI+%26+Data+Science+Learner;Java+Developer;Open+Source+Contributor;Building+Projects+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Circuit+to+Code+Engineer;AI+%26+Data+Science+Learner;Python+Learner;Open+Source+Contributor;Building+Projects+Everyday+🚀" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 </p>
 
 ### 🌐 Web Development
@@ -33,68 +33,35 @@
 
 ### 🤖 AI / Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,jupyter" />
 </p>
 
----
-
-# 📌 Featured Projects
-
-### 🚖 Women Safety Cab Booking System
-
-> AI-enabled safety-focused cab booking platform designed to improve ride security for women.
-
-**Key features**
-
-* Secure login and signup
-* Live location tracking
-* Emergency SOS support
-* Women driver preference
-* Safety-focused ride experience
-* Responsive user interface
-
-### 📅 Calendar Management System
-
-> Smart calendar application for managing schedules, reminders, events, and daily task organization.
-
-### 🎬 Movie Recommendation System
-
-> Machine learning-based recommendation system that suggests movies based on user preferences and viewing patterns.
-
-### 🍔 Food Image Recipe Generator
-
-> AI project that generates recipes from uploaded food images.
 
 
----
+
+
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=piyush21-del&theme=tokyonight&row=1&column=6" />
 </p>
-
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=piyush21-del&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=piyush21-del&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ---
 
@@ -114,18 +81,20 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="www.linkedin.com/in/piyush-kumar-mishra-463954285" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center" style="display:flex; justify-content:center; gap:40px;">
+
+<a href="https://www.linkedin.com/in/piyush-kumar-mishra-463954285" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 <a href="mailto:piyushkumarmishra345@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
 <a href="https://github.com/piyush21-del">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
+
 </p>
 
 ---
